@@ -1,0 +1,29 @@
+# Сборка и временные файлы Visual Studio / CMake
+build/
+out/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.sln
+*.vcxproj*
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Результаты вычислений (большие файлы)
+result*.txt
+matrixA.txt
+matrixB.txt
+
+# Python кэш
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Разное
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
