@@ -1,0 +1,103 @@
+Generating N=200
+Generating matrices for N=200
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Generating N=400
+Generating matrices for N=400
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Generating N=800
+Generating matrices for N=800
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Generating N=1200
+Generating matrices for N=1200
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Generating N=1600
+Generating matrices for N=1600
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Generating N=2000
+Generating matrices for N=2000
+  Saved matrixA.txt
+  Saved matrixB.txt
+Done!
+  Running: processes=1, run=1
+  Running: processes=1, run=2
+  Running: processes=1, run=3
+  Running: processes=2, run=1
+  Running: processes=2, run=2
+  Running: processes=2, run=3
+  Running: processes=4, run=1
+  Running: processes=4, run=2
+  Running: processes=4, run=3
+  Running: processes=8, run=1
+  Running: processes=8, run=2
+  Running: processes=8, run=3
+Done! Results in experiment_results.csv
